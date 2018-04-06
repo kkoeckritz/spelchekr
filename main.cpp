@@ -1,24 +1,7 @@
 /*
+	spelchekr
 	Kris Koeckritz
-	last mod: 04/01/18
-*/
-
-/*
-#include <map>
-#include <set> 
-#include <list>
-#include <cmath>
-#include <ctime>
-#include <deque>
-#include <queue>
-#include <stack>
-#include <climits>
-#include <cstring>
-#include <cstdlib>
-#include <bitset>
-#include <numeric>
-#include <cstdio>
-#include <limits>
+	last mod: 04/05/18
 */
 
 #include <iostream>
